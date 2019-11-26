@@ -1,7 +1,7 @@
 {
   "name": "rn-toasty",
   "version": "0.0.5",
-  "description": "React Native: Native Toast",
+  "description": "React Native: Native Toast, forked from react-native-toasty",
   "main": "js/RNToasty.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,8 +17,7 @@
     "url": "https://github.com/vforvasile/rn-toasty.git"
   },
   "dependencies": {
-    "pod-installer": "0.0.0",
-    "react-native-vector-icons": "5.0.0"
+    "pod-installer": "0.0.0"
   },
   "devDependencies": {
     "prettier-pack": "0.0.7"
