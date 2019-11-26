@@ -27,9 +27,9 @@ RNToasty.Show({
 
 // with props
 RNToasty.Show({
-  title: 'Hello toast',
-  tintColor: '#657786',
-  titleColor: '#f1f1f1',
+  title: "Hello toast",
+  tintColor: "#657786",
+  titleColor: "#f1f1f1",
   titleSize: 18,
   duration: 1
 });
@@ -37,13 +37,13 @@ RNToasty.Show({
 
 **Updated Props**
 
-| Prop              | Type       | Default | Note                                                                                                       |
-| ----------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------- |
-| `title`       | `string`     |         | Specify the title of toast
-| `titleSize` | `number` |    16     | Specify the title size                                                   |  |
-| `titleColor`    | `string: HEX-COLOR`     |    `#FFFFFF`    | Specify the title color                                        |  |
-| `duration`      | `number`     |         | Specify the duration of toast: `0: SHORT; 1: LONG`
-| `tintColor`      | `string: HEX-NUMBER`     |    `#000000`     | Specify the tint color of toast
+| Prop         | Type                 | Default   | Note                                               |
+| ------------ | -------------------- | --------- | -------------------------------------------------- |
+| `title`      | `string`             |           | Specify the title of toast                         |
+| `titleSize`  | `number`             | 16        | Specify the title size                             |  |
+| `titleColor` | `string: HEX-COLOR`  | `#FFFFFF` | Specify the title color                            |  |
+| `duration`   | `number`             | 0         | Specify the duration of toast: `0: SHORT; 1: LONG` |
+| `tintColor`  | `string: HEX-NUMBER` | `#000000` | Specify the tint color of toast                    |
 
 **Thank to**
 https://github.com/prscX
