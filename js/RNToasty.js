@@ -37,7 +37,10 @@ class Toasty extends PureComponent {
   };
 
   static Show(props) {
-    if (!props) props = {};
+    if (!props)
+      props = {
+        withIcon: undefined
+      };
     if (props.type === undefined) props.type = Toasty.defaultProps.type;
     if (props.title === undefined) props.title = Toasty.defaultProps.title;
     if (props.titleSize === undefined)
