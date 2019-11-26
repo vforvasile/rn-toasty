@@ -9,9 +9,9 @@ https://github.com/prscX/react-native-toasty
 
 **Getting Started**
 
-`$npm install rn-toasty`
+`npm install rn-toasty`
 
-`$react-native link rn-toasty` and remove Android linking
+`react-native link rn-toasty` and remove Android linking
 
 **Usage**
 
