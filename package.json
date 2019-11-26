@@ -8,13 +8,23 @@
     "postinstall": "node ../pod-installer/index.js"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "toast",
+    "popup",
+    "notification",
+    "ui",
+    "toasty",
+    "android",
+    "ios"
   ],
   "author": "Pranav Raj Singh Chauhan",
   "license": "Apache License 2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/vforvasile/rn-toasty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vforvasile/rn-toasty/issues"
   },
   "dependencies": {
     "pod-installer": "0.0.0"
