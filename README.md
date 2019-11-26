@@ -4,7 +4,7 @@ https://github.com/prscX/react-native-toasty
 
 **Note:**
 
-- This fork uses only the default Toast with props, it doesn't have icons support (reduced bundle size caused by react-native-svg fonts)
+- This fork uses only the default Toast with props, it doesn't have icons support (reduced bundle size caused by react-native-vector-icons fonts)
 - Supports RN 0.60+
 
 **Getting Started**
