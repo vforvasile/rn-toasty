@@ -1,27 +1,27 @@
 {
-    "name": "react-native-toasty",
-    "version": "0.0.4",
-    "description": "React Native: Native Toast",
-    "main": "js/RNToasty.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "postinstall": "node ../pod-installer/index.js"
-    },
-    "keywords": [
-        "react-native"
-    ],
-    "author": "Pranav Raj Singh Chauhan",
-    "license": "Apache License 2.0",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/prscX/react-native-toasty.git"
-    },
-    "dependencies": {
-        "pod-installer": "0.0.0",
-        "react-native-vector-icons": "5.0.0"
-    },
-    "devDependencies": {
-        "prettier-pack": "0.0.7"
-    },
-    "peerDependencies": {}
+  "name": "rn-toasty",
+  "version": "0.0.5",
+  "description": "React Native: Native Toast",
+  "main": "js/RNToasty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node ../pod-installer/index.js"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Pranav Raj Singh Chauhan",
+  "license": "Apache License 2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vforvasile/rn-toasty.git"
+  },
+  "dependencies": {
+    "pod-installer": "0.0.0",
+    "react-native-vector-icons": "5.0.0"
+  },
+  "devDependencies": {
+    "prettier-pack": "0.0.7"
+  },
+  "peerDependencies": {}
 }
