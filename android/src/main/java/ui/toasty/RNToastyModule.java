@@ -45,9 +45,8 @@ public class RNToastyModule extends ReactContextBaseJavaModule {
     }
 
     config.apply(); // required
-
-    if (tintColor.length() <= 0 && icon == null ) {
-      Toasty.normal(getCurrentActivity(), title, duration).show();
-    }
+    
+    Toasty.normal(getCurrentActivity(), title, duration).show();
+    
   }
 }
